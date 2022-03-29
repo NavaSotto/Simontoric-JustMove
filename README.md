@@ -1,6 +1,8 @@
 
 # Rehabilitation tool for strengthening the shoulder girdle and memory in response to sports injuries
 
+<img src="Assets/web.gif" > 
+</div>
 I chose as a final project to challenge myself and realize the project in a language that is still C # - I have not learned
  Because I knew that there would be great importance to an experiential and comfortable design, I chose to use a harmonious integration of a user interface alongside WPF software in technology.
 Also in this project I worked in a team of three and learned about the ability of my conduct
