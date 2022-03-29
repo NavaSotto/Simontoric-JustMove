@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.App">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.BasicGameInstructions" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAhAAAAQAAAAAgAAAAIAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>BasicGameInstructions.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.Window2" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game instructions.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.KinectHoverButton">
+    <Position X="3.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAJAAAAAAABABAAAAAwAAAAAAACAQAAAAAA=</HashCode>
+      <FileName>KinectHoverButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.KinectWindow" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KinektWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAYoACACAAAZoAAgEIAAA4IAIAUAAgAQACA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.Window1" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAABAAAAAAAAgAAEAIAAAAABAAAACAAAAAA=</HashCode>
+      <FileName>menu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.SelectionDisplay" BaseTypeListCollapsed="true">
+    <Position X="10" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SelectionDisplay.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.ShapeGameInstruction" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAhAAAAQAAAAAgAAAAIAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ShapeGameInstruction.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources">
+    <Position X="0.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAoA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.Kinect.ControlsBasics.Properties.Settings">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

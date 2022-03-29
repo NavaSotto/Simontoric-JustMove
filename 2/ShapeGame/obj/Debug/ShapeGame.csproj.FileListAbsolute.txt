@@ -1,0 +1,342 @@
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\Downloads\BBB\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\Downloads\BBB\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\Videos\פרויקטים מעודכנים\1\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\Videos\פרויקטים מעודכנים\2\1\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\Downloads\AAA\3\1\finalProject_(10)\finalProject (10)\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\5\5\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\MainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\MainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\7\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\8\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\FinalProject\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\גיבוי אחרון חביב\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\41\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\פרויקטים מעודכנים\פרויקטים\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\גיבוי אחרון\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe.config
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\ShapeGame.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csprojAssemblyReference.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.baml
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\JustMoveMainWindow.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\App.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_Content.g.cs
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.g.resources
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CoreCompileInputs.cache
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.csproj.CopyComplete
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.exe
+C:\Users\nava\source\repos\כל גרסאות הפרויקטים-במחשב\46\27\FinalProject\2\ShapeGame\obj\Debug\ShapeGame.pdb

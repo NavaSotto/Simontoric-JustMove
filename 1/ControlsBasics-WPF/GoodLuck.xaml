@@ -1,0 +1,21 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.ControlsBasics.GoodLuck"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft.Samples.Kinect.ControlsBasics"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Closed="CheckMode"
+        Title="GoodLuck" >
+    
+
+    <Grid>
+
+
+        <Button  Click="ImageButton_Click" Margin="0,-24,-0.4,0" Grid.ColumnSpan="2">
+            <Image Source="goodLuckScreen.jpg"  Stretch="Fill" Height="226" Width="234"/>
+        </Button>
+
+    </Grid>
+</Window>
