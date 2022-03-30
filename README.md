@@ -1,7 +1,7 @@
 
 # Rehabilitation tool for strengthening the shoulder girdle and memory in response to sports injuries
 
-<img src="Images/web.gif" > 
+<img src="Images/web.gif" alt="web.gif" width="300" height="300" > 
 </div>
 I chose as a final project to challenge myself and realize the project in a language that is still C # - I have not learned
  Because I knew that there would be great importance to an experiential and comfortable design, I chose to use a harmonious integration of a user interface alongside WPF software in technology.
